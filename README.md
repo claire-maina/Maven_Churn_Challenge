@@ -30,5 +30,5 @@ There are no known bugs
 You can always reach me at my email claire.maina01@gmail.com
 
 # License
-MIT License Copyright (c) 2022 Claire Maina Courtesy of Mavin Analytics
+MIT License Copyright (c) 2022 Claire Maina Courtesy of Maven Analytics
 Open Database License
